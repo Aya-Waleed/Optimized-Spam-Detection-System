@@ -12,6 +12,14 @@ through the `outputs/` and `models/` folders.
 Raw SMS text  ─▶  Data & NLP Pipeline  ─▶  ML & Model Evaluation  ─▶  Model Optimization & Deployment  ─▶  Usable system
 ```
 
+## Team — Division of Work
+
+| Stage | Notebook / Component | Responsible |
+|---|---|---|
+| 1. Data & NLP Pipeline | `notebooks/Spam_Detection.ipynb` | Aya Waleed Mohamed Mohamed Shehata |
+| 2. ML & Model Evaluation | `notebooks/Model_Training_Evaluation.ipynb` | Heba Abdelsalam Elsayed |
+| 3. Model Optimization & Deployment | `notebooks/Model_Optimization_Deployment.ipynb`, `deploy/` | SeifEidSalem Seliman Mohsen |
+
 ## 1. Data & NLP Pipeline — `notebooks/Spam_Detection.ipynb`
 
 Turns the raw SMS Spam Collection dataset into ML-ready numerical features.
