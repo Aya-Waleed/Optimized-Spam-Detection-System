@@ -141,7 +141,7 @@ deployment-time preprocessing never drift out of sync.
 ├── tests/
 │   └── test_pipeline_sanity.py       # smoke test on fresh, unseen messages
 ├── requirements.txt
-└── README.md
+
 ```
 
 ## Setup
