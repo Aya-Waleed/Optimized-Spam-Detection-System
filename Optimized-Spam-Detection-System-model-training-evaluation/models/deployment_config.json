@@ -1,0 +1,8 @@
+{
+    "threshold": 0.4189,
+    "label_mapping": {
+        "0": "ham",
+        "1": "spam"
+    },
+    "model": "Calibrated Linear SVM (TF-IDF, unigrams + bigrams, 5000 features)"
+}

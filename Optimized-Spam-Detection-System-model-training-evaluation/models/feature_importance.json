@@ -1,0 +1,126 @@
+{
+    "top_spam_words": [
+        {
+            "feature": "txt",
+            "coefficient": 2.2462106512402715
+        },
+        {
+            "feature": "text",
+            "coefficient": 1.76227442222573
+        },
+        {
+            "feature": "repli",
+            "coefficient": 1.7377890791497943
+        },
+        {
+            "feature": "uk",
+            "coefficient": 1.6323319852659943
+        },
+        {
+            "feature": "call",
+            "coefficient": 1.6313896130978085
+        },
+        {
+            "feature": "servic",
+            "coefficient": 1.4900367902516445
+        },
+        {
+            "feature": "www",
+            "coefficient": 1.4787422361673823
+        },
+        {
+            "feature": "mobil",
+            "coefficient": 1.4624173716635822
+        },
+        {
+            "feature": "150p",
+            "coefficient": 1.4365411797997925
+        },
+        {
+            "feature": "com",
+            "coefficient": 1.382609499144919
+        },
+        {
+            "feature": "rington",
+            "coefficient": 1.3265487174342925
+        },
+        {
+            "feature": "claim",
+            "coefficient": 1.292082297452507
+        },
+        {
+            "feature": "http",
+            "coefficient": 1.237698621604328
+        },
+        {
+            "feature": "co uk",
+            "coefficient": 1.218256807913354
+        },
+        {
+            "feature": "50",
+            "coefficient": 1.1797282520991033
+        }
+    ],
+    "top_ham_words": [
+        {
+            "feature": "at",
+            "coefficient": -0.7391735193957026
+        },
+        {
+            "feature": "miss call",
+            "coefficient": -0.73528742136507
+        },
+        {
+            "feature": "me",
+            "coefficient": -0.711203612502673
+        },
+        {
+            "feature": "mail",
+            "coefficient": -0.7076815209508898
+        },
+        {
+            "feature": "my",
+            "coefficient": -0.6979791784879628
+        },
+        {
+            "feature": "am wait",
+            "coefficient": -0.6945180856586722
+        },
+        {
+            "feature": "sir",
+            "coefficient": -0.6673405611313334
+        },
+        {
+            "feature": "can",
+            "coefficient": -0.6528878498532823
+        },
+        {
+            "feature": "yup",
+            "coefficient": -0.6470138359865983
+        },
+        {
+            "feature": "alright",
+            "coefficient": -0.6305647327930375
+        },
+        {
+            "feature": "later",
+            "coefficient": -0.6122050551527293
+        },
+        {
+            "feature": "she",
+            "coefficient": -0.6071288270444816
+        },
+        {
+            "feature": "gt",
+            "coefficient": -0.5896496259105851
+        },
+        {
+            "feature": "lt",
+            "coefficient": -0.5752452938202741
+        },
+        {
+            "feature": "lt gt",
+            "coefficient": -0.5751304085480484
+        }
+    ]
+}
